@@ -1,5 +1,5 @@
 # Technical-Analysis-Pybot
-Folder focused on Technical Analysis programs of stock prices using Yahoo Finance API
+Folder focused on Technical Analysis programs of stock prices using Yahoo Finance
 
 Files:
 
